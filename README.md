@@ -1,2 +1,2 @@
-# video_player
+# Video Player
 Swift UI sample video player
