@@ -1,2 +1,2 @@
 # Video Player
-Swift UI sample video player
+Swift UI sample video player with clean architecture.
